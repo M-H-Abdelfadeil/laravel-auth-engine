@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Api\V1;
 
+use App\Events\UserRegistered;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Api\V1\RegisterRequest;
 use App\Http\Resources\V1\AuthenticatedUserResource;
@@ -23,10 +24,10 @@ class RegisterController extends Controller
         return GeneralService::safeTransaction(function () use ($request) {
             $data = $request->validated();
             $user = $this->userService->create($data);
+            event(new UserRegistered($user));
             $token = $user->createToken('auth_token')->plainTextToken;
             $user->token = $token;
             return ResponseService::sendResponseSuccess(new AuthenticatedUserResource($user), Response::HTTP_OK, 'Account created successfully');
-
         });
     }
 }
