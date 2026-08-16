@@ -31,7 +31,7 @@ class PhoneNumberService
         if (!$country['status']) {
             return [
                 'status' => false,
-                'message' => __('messages.Country code not found'),
+                'message' => 'Country code not found',
             ];
         }
 

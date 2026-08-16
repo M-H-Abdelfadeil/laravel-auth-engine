@@ -1,0 +1,1591 @@
+{
+    "93": {
+        "name_ar": "\u0623\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+        "name_en": "Afghanistan",
+        "alpha_3": "AFG",
+        "phone_code": "93",
+        "alpha_2": "AF"
+    },
+    "358": {
+        "name_ar": "\u0641\u0646\u0644\u0646\u062f\u0627",
+        "name_en": "Finland",
+        "alpha_3": "FIN",
+        "phone_code": "358",
+        "alpha_2": "FI"
+    },
+    "355": {
+        "name_ar": "\u0623\u0644\u0628\u0627\u0646\u064a\u0627",
+        "name_en": "Albania",
+        "alpha_3": "ALB",
+        "phone_code": "355",
+        "alpha_2": "AL"
+    },
+    "213": {
+        "name_ar": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+        "name_en": "Algeria",
+        "alpha_3": "DZA",
+        "phone_code": "213",
+        "alpha_2": "DZ"
+    },
+    "1684": {
+        "name_ar": "\u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+        "name_en": "American Samoa",
+        "alpha_3": "ASM",
+        "phone_code": "1684",
+        "alpha_2": "AS"
+    },
+    "376": {
+        "name_ar": "\u0623\u0646\u062f\u0648\u0631\u0627",
+        "name_en": "Andorra",
+        "alpha_3": "AND",
+        "phone_code": "376",
+        "alpha_2": "AD"
+    },
+    "244": {
+        "name_ar": "\u0623\u0646\u063a\u0648\u0644\u0627",
+        "name_en": "Angola",
+        "alpha_3": "AGO",
+        "phone_code": "244",
+        "alpha_2": "AO"
+    },
+    "1264": {
+        "name_ar": "\u0623\u0646\u063a\u064a\u0644\u0627",
+        "name_en": "Anguilla",
+        "alpha_3": "AIA",
+        "phone_code": "1264",
+        "alpha_2": "AI"
+    },
+    "1268": {
+        "name_ar": "\u0623\u0646\u062a\u064a\u063a\u0648\u0627 \u0648\u0628\u0631\u0628\u0648\u062f\u0627",
+        "name_en": "Antigua and Barbuda",
+        "alpha_3": "ATG",
+        "phone_code": "1268",
+        "alpha_2": "AG"
+    },
+    "54": {
+        "name_ar": "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646",
+        "name_en": "Argentina",
+        "alpha_3": "ARG",
+        "phone_code": "54",
+        "alpha_2": "AR"
+    },
+    "374": {
+        "name_ar": "\u0623\u0631\u0645\u064a\u0646\u064a\u0627",
+        "name_en": "Armenia",
+        "alpha_3": "ARM",
+        "phone_code": "374",
+        "alpha_2": "AM"
+    },
+    "297": {
+        "name_ar": "\u0623\u0631\u0648\u0628\u0627",
+        "name_en": "Aruba",
+        "alpha_3": "ABW",
+        "phone_code": "297",
+        "alpha_2": "AW"
+    },
+    "61": {
+        "name_ar": "\u0643\u0648\u0643\u0648\u0633 (\u0643\u064a\u0644\u064a\u0646\u063a \u062c\u0632\u0631",
+        "name_en": "Cocos (Keeling) Islands",
+        "alpha_3": "CCK",
+        "phone_code": "61",
+        "alpha_2": "CC"
+    },
+    "43": {
+        "name_ar": "\u0627\u0644\u0646\u0645\u0633\u0627",
+        "name_en": "Austria",
+        "alpha_3": "AUT",
+        "phone_code": "43",
+        "alpha_2": "AT"
+    },
+    "994": {
+        "name_ar": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646",
+        "name_en": "Azerbaijan",
+        "alpha_3": "AZE",
+        "phone_code": "994",
+        "alpha_2": "AZ"
+    },
+    "1242": {
+        "name_ar": "\u062c\u0632\u0631 \u0627\u0644\u0628\u0647\u0627\u0645\u0627",
+        "name_en": "The Bahamas",
+        "alpha_3": "BHS",
+        "phone_code": "1242",
+        "alpha_2": "BS"
+    },
+    "973": {
+        "name_ar": "\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+        "name_en": "Bahrain",
+        "alpha_3": "BHR",
+        "phone_code": "973",
+        "alpha_2": "BH"
+    },
+    "880": {
+        "name_ar": "\u0628\u0646\u063a\u0644\u0627\u062f\u064a\u0634",
+        "name_en": "Bangladesh",
+        "alpha_3": "BGD",
+        "phone_code": "880",
+        "alpha_2": "BD"
+    },
+    "1246": {
+        "name_ar": "\u0628\u0631\u0628\u0627\u062f\u0648\u0633",
+        "name_en": "Barbados",
+        "alpha_3": "BRB",
+        "phone_code": "1246",
+        "alpha_2": "BB"
+    },
+    "375": {
+        "name_ar": "\u0628\u064a\u0644\u0627\u0631\u0648\u0633",
+        "name_en": "Belarus",
+        "alpha_3": "BLR",
+        "phone_code": "375",
+        "alpha_2": "BY"
+    },
+    "32": {
+        "name_ar": "\u0628\u0644\u062c\u064a\u0643\u0627",
+        "name_en": "Belgium",
+        "alpha_3": "BEL",
+        "phone_code": "32",
+        "alpha_2": "BE"
+    },
+    "501": {
+        "name_ar": "\u0628\u0644\u064a\u0632",
+        "name_en": "Belize",
+        "alpha_3": "BLZ",
+        "phone_code": "501",
+        "alpha_2": "BZ"
+    },
+    "229": {
+        "name_ar": "\u0628\u0646\u0646",
+        "name_en": "Benin",
+        "alpha_3": "BEN",
+        "phone_code": "229",
+        "alpha_2": "BJ"
+    },
+    "1441": {
+        "name_ar": "\u0628\u0631\u0645\u0648\u062f\u0627",
+        "name_en": "Bermuda",
+        "alpha_3": "BMU",
+        "phone_code": "1441",
+        "alpha_2": "BM"
+    },
+    "975": {
+        "name_ar": "\u0628\u0648\u062a\u0627\u0646",
+        "name_en": "Bhutan",
+        "alpha_3": "BTN",
+        "phone_code": "975",
+        "alpha_2": "BT"
+    },
+    "591": {
+        "name_ar": "\u0628\u0648\u0644\u064a\u0641\u064a\u0627",
+        "name_en": "Bolivia",
+        "alpha_3": "BOL",
+        "phone_code": "591",
+        "alpha_2": "BO"
+    },
+    "5997": {
+        "name_ar": "\u0628\u0648\u0646\u064a\u0631",
+        "name_en": "Bonaire",
+        "alpha_3": "BES",
+        "phone_code": "5997",
+        "alpha_2": "BQ"
+    },
+    "267": {
+        "name_ar": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
+        "name_en": "Botswana",
+        "alpha_3": "BWA",
+        "phone_code": "267",
+        "alpha_2": "BW"
+    },
+    "55": {
+        "name_ar": "\u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644",
+        "name_en": "Brazil",
+        "alpha_3": "BRA",
+        "phone_code": "55",
+        "alpha_2": "BR"
+    },
+    "246": {
+        "name_ar": "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0645\u062d\u064a\u0637 \u0627\u0644\u0647\u0646\u062f\u064a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a",
+        "name_en": "British Indian Ocean Territory",
+        "alpha_3": "IOT",
+        "phone_code": "246",
+        "alpha_2": "IO"
+    },
+    "1284": {
+        "name_ar": "\u062c\u0632\u0631 \u0641\u064a\u0631\u062c\u0646 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629",
+        "name_en": "British Virgin Islands",
+        "alpha_3": "VGB",
+        "phone_code": "1284",
+        "alpha_2": "VG"
+    },
+    "673": {
+        "name_ar": "\u0628\u0631\u0648\u0646\u0627\u064a",
+        "name_en": "Brunei",
+        "alpha_3": "BRN",
+        "phone_code": "673",
+        "alpha_2": "BN"
+    },
+    "359": {
+        "name_ar": "\u0628\u0644\u063a\u0627\u0631\u064a\u0627",
+        "name_en": "Bulgaria",
+        "alpha_3": "BGR",
+        "phone_code": "359",
+        "alpha_2": "BG"
+    },
+    "226": {
+        "name_ar": "\u0628\u0648\u0631\u0643\u064a\u0646\u0627 \u0641\u0627\u0633\u0648",
+        "name_en": "Burkina Faso",
+        "alpha_3": "BFA",
+        "phone_code": "226",
+        "alpha_2": "BF"
+    },
+    "257": {
+        "name_ar": "\u0628\u0648\u0631\u0648\u0646\u062f\u064a",
+        "name_en": "Burundi",
+        "alpha_3": "BDI",
+        "phone_code": "257",
+        "alpha_2": "BI"
+    },
+    "855": {
+        "name_ar": "\u0643\u0645\u0628\u0648\u062f\u064a\u0627",
+        "name_en": "Cambodia",
+        "alpha_3": "KHM",
+        "phone_code": "855",
+        "alpha_2": "KH"
+    },
+    "237": {
+        "name_ar": "\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0648\u0646",
+        "name_en": "Cameroon",
+        "alpha_3": "CMR",
+        "phone_code": "237",
+        "alpha_2": "CM"
+    },
+    "1": {
+        "name_ar": "\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "name_en": "United States",
+        "alpha_3": "USA",
+        "phone_code": "1",
+        "alpha_2": "US"
+    },
+    "238": {
+        "name_ar": "\u0627\u0644\u0631\u0623\u0633 \u0627\u0644\u0623\u062e\u0636\u0631",
+        "name_en": "Cape Verde",
+        "alpha_3": "CPV",
+        "phone_code": "238",
+        "alpha_2": "CV"
+    },
+    "1345": {
+        "name_ar": "\u062c\u0632\u0631 \u0643\u0627\u064a\u0645\u0627\u0646",
+        "name_en": "Cayman Islands",
+        "alpha_3": "CYM",
+        "phone_code": "1345",
+        "alpha_2": "KY"
+    },
+    "236": {
+        "name_ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649",
+        "name_en": "Central African Republic",
+        "alpha_3": "CAF",
+        "phone_code": "236",
+        "alpha_2": "CF"
+    },
+    "235": {
+        "name_ar": "\u062a\u0634\u0627\u062f",
+        "name_en": "Chad",
+        "alpha_3": "TCD",
+        "phone_code": "235",
+        "alpha_2": "TD"
+    },
+    "56": {
+        "name_ar": "\u0634\u064a\u0644\u064a",
+        "name_en": "Chile",
+        "alpha_3": "CHL",
+        "phone_code": "56",
+        "alpha_2": "CL"
+    },
+    "86": {
+        "name_ar": "\u0627\u0644\u0635\u064a\u0646",
+        "name_en": "China",
+        "alpha_3": "CHN",
+        "phone_code": "86",
+        "alpha_2": "CN"
+    },
+    "57": {
+        "name_ar": "\u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627",
+        "name_en": "Colombia",
+        "alpha_3": "COL",
+        "phone_code": "57",
+        "alpha_2": "CO"
+    },
+    "269": {
+        "name_ar": "\u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+        "name_en": "Comoros",
+        "alpha_3": "COM",
+        "phone_code": "269",
+        "alpha_2": "KM"
+    },
+    "242": {
+        "name_ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648",
+        "name_en": "Republic of the Congo",
+        "alpha_3": "COG",
+        "phone_code": "242",
+        "alpha_2": "CG"
+    },
+    "243": {
+        "name_ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+        "name_en": "Democratic Republic of the Congo",
+        "alpha_3": "COD",
+        "phone_code": "243",
+        "alpha_2": "CD"
+    },
+    "682": {
+        "name_ar": "\u062c\u0632\u0631 \u0643\u0648\u0643",
+        "name_en": "Cook Islands",
+        "alpha_3": "COK",
+        "phone_code": "682",
+        "alpha_2": "CK"
+    },
+    "506": {
+        "name_ar": "\u0643\u0648\u0633\u062a\u0627\u0631\u064a\u0643\u0627",
+        "name_en": "Costa Rica",
+        "alpha_3": "CRI",
+        "phone_code": "506",
+        "alpha_2": "CR"
+    },
+    "385": {
+        "name_ar": "\u0643\u0631\u0648\u0627\u062a\u064a\u0627",
+        "name_en": "Croatia",
+        "alpha_3": "HRV",
+        "phone_code": "385",
+        "alpha_2": "HR"
+    },
+    "53": {
+        "name_ar": "\u0643\u0648\u0628\u0627",
+        "name_en": "Cuba",
+        "alpha_3": "CUB",
+        "phone_code": "53",
+        "alpha_2": "CU"
+    },
+    "5999": {
+        "name_ar": "\u0643\u0648\u0631\u0627\u0633\u0627\u0648",
+        "name_en": "Cura\u00e7ao",
+        "alpha_3": "CUW",
+        "phone_code": "5999",
+        "alpha_2": "CW"
+    },
+    "357": {
+        "name_ar": "\u0642\u0628\u0631\u0635",
+        "name_en": "Cyprus",
+        "alpha_3": "CYP",
+        "phone_code": "357",
+        "alpha_2": "CY"
+    },
+    "420": {
+        "name_ar": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0634\u064a\u0643\u064a\u0629",
+        "name_en": "Czech Republic",
+        "alpha_3": "CZE",
+        "phone_code": "420",
+        "alpha_2": "CZ"
+    },
+    "45": {
+        "name_ar": "\u0627\u0644\u062f\u0627\u0646\u0645\u0631\u0643",
+        "name_en": "Denmark",
+        "alpha_3": "DNK",
+        "phone_code": "45",
+        "alpha_2": "DK"
+    },
+    "253": {
+        "name_ar": "\u062c\u064a\u0628\u0648\u062a\u064a",
+        "name_en": "Djibouti",
+        "alpha_3": "DJI",
+        "phone_code": "253",
+        "alpha_2": "DJ"
+    },
+    "1767": {
+        "name_ar": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u0627",
+        "name_en": "Dominica",
+        "alpha_3": "DMA",
+        "phone_code": "1767",
+        "alpha_2": "DM"
+    },
+    "1809": {
+        "name_ar": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u0648\u0645\u064a\u0646\u064a\u0643\u064a\u0629",
+        "name_en": "Dominican Republic",
+        "alpha_3": "DOM",
+        "phone_code": "1809",
+        "alpha_2": "DO"
+    },
+    "593": {
+        "name_ar": "\u0625\u0643\u0648\u0627\u062f\u0648\u0631",
+        "name_en": "Ecuador",
+        "alpha_3": "ECU",
+        "phone_code": "593",
+        "alpha_2": "EC"
+    },
+    "20": {
+        "name_ar": "\u0645\u0635\u0631",
+        "name_en": "Egypt",
+        "alpha_3": "EGY",
+        "phone_code": "20",
+        "alpha_2": "EG"
+    },
+    "503": {
+        "name_ar": "\u0627\u0644\u0633\u0644\u0641\u0627\u062f\u0648\u0631",
+        "name_en": "El Salvador",
+        "alpha_3": "SLV",
+        "phone_code": "503",
+        "alpha_2": "SV"
+    },
+    "240": {
+        "name_ar": "\u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u0627\u0633\u062a\u0648\u0627\u0626\u064a\u0629",
+        "name_en": "Equatorial Guinea",
+        "alpha_3": "GNQ",
+        "phone_code": "240",
+        "alpha_2": "GQ"
+    },
+    "291": {
+        "name_ar": "\u0625\u0631\u064a\u062a\u0631\u064a\u0627",
+        "name_en": "Eritrea",
+        "alpha_3": "ERI",
+        "phone_code": "291",
+        "alpha_2": "ER"
+    },
+    "372": {
+        "name_ar": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627",
+        "name_en": "Estonia",
+        "alpha_3": "EST",
+        "phone_code": "372",
+        "alpha_2": "EE"
+    },
+    "251": {
+        "name_ar": "\u0625\u062b\u064a\u0648\u0628\u064a\u0627",
+        "name_en": "Ethiopia",
+        "alpha_3": "ETH",
+        "phone_code": "251",
+        "alpha_2": "ET"
+    },
+    "500": {
+        "name_ar": "\u062c\u0648\u0631\u062c\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+        "name_en": "South Georgia",
+        "alpha_3": "SGS",
+        "phone_code": "500",
+        "alpha_2": "GS"
+    },
+    "298": {
+        "name_ar": "\u062c\u0632\u0631 \u0641\u0627\u0631\u0648",
+        "name_en": "Faroe Islands",
+        "alpha_3": "FRO",
+        "phone_code": "298",
+        "alpha_2": "FO"
+    },
+    "679": {
+        "name_ar": "\u0641\u064a\u062c\u064a",
+        "name_en": "Fiji",
+        "alpha_3": "FJI",
+        "phone_code": "679",
+        "alpha_2": "FJ"
+    },
+    "33": {
+        "name_ar": "\u0641\u0631\u0646\u0633\u0627",
+        "name_en": "France",
+        "alpha_3": "FRA",
+        "phone_code": "33",
+        "alpha_2": "FR"
+    },
+    "594": {
+        "name_ar": "\u063a\u0648\u064a\u0627\u0646\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629",
+        "name_en": "French Guiana",
+        "alpha_3": "GUF",
+        "phone_code": "594",
+        "alpha_2": "GF"
+    },
+    "689": {
+        "name_ar": "\u0628\u0648\u0644\u064a\u0646\u064a\u0632\u064a\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u0629",
+        "name_en": "French Polynesia",
+        "alpha_3": "PYF",
+        "phone_code": "689",
+        "alpha_2": "PF"
+    },
+    "262": {
+        "name_ar": "\u0631\u064a\u0648\u0646\u064a\u0648\u0646",
+        "name_en": "R\u00e9union",
+        "alpha_3": "REU",
+        "phone_code": "262",
+        "alpha_2": "RE"
+    },
+    "241": {
+        "name_ar": "\u063a\u0627\u0628\u0648\u0646",
+        "name_en": "Gabon",
+        "alpha_3": "GAB",
+        "phone_code": "241",
+        "alpha_2": "GA"
+    },
+    "220": {
+        "name_ar": "\u063a\u0627\u0645\u0628\u064a\u0627",
+        "name_en": "The Gambia",
+        "alpha_3": "GMB",
+        "phone_code": "220",
+        "alpha_2": "GM"
+    },
+    "995": {
+        "name_ar": "\u062c\u0648\u0631\u062c\u064a\u0627",
+        "name_en": "Georgia",
+        "alpha_3": "GEO",
+        "phone_code": "995",
+        "alpha_2": "GE"
+    },
+    "49": {
+        "name_ar": "\u0623\u0644\u0645\u0627\u0646\u064a\u0627",
+        "name_en": "Germany",
+        "alpha_3": "DEU",
+        "phone_code": "49",
+        "alpha_2": "DE"
+    },
+    "233": {
+        "name_ar": "\u063a\u0627\u0646\u0627",
+        "name_en": "Ghana",
+        "alpha_3": "GHA",
+        "phone_code": "233",
+        "alpha_2": "GH"
+    },
+    "350": {
+        "name_ar": "\u0637\u0627\u0631\u0642",
+        "name_en": "Gibraltar",
+        "alpha_3": "GIB",
+        "phone_code": "350",
+        "alpha_2": "GI"
+    },
+    "30": {
+        "name_ar": "\u0627\u0644\u064a\u0648\u0646\u0627\u0646",
+        "name_en": "Greece",
+        "alpha_3": "GRC",
+        "phone_code": "30",
+        "alpha_2": "GR"
+    },
+    "299": {
+        "name_ar": "\u063a\u0631\u064a\u0646\u0644\u0627\u0646\u062f",
+        "name_en": "Greenland",
+        "alpha_3": "GRL",
+        "phone_code": "299",
+        "alpha_2": "GL"
+    },
+    "1473": {
+        "name_ar": "\u063a\u0631\u064a\u0646\u0627\u062f\u0627",
+        "name_en": "Grenada",
+        "alpha_3": "GRD",
+        "phone_code": "1473",
+        "alpha_2": "GD"
+    },
+    "590": {
+        "name_ar": "\u0633\u0627\u0646\u062a \u0645\u0627\u0631\u062a\u0646",
+        "name_en": "Saint Martin",
+        "alpha_3": "MAF",
+        "phone_code": "590",
+        "alpha_2": "MF"
+    },
+    "1671": {
+        "name_ar": "\u063a\u0648\u0627\u0645",
+        "name_en": "Guam",
+        "alpha_3": "GUM",
+        "phone_code": "1671",
+        "alpha_2": "GU"
+    },
+    "502": {
+        "name_ar": "\u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627",
+        "name_en": "Guatemala",
+        "alpha_3": "GTM",
+        "phone_code": "502",
+        "alpha_2": "GT"
+    },
+    "44": {
+        "name_ar": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "name_en": "United Kingdom",
+        "alpha_3": "GBR",
+        "phone_code": "44",
+        "alpha_2": "GB"
+    },
+    "224": {
+        "name_ar": "\u063a\u064a\u0646\u064a\u0627",
+        "name_en": "Guinea",
+        "alpha_3": "GIN",
+        "phone_code": "224",
+        "alpha_2": "GN"
+    },
+    "245": {
+        "name_ar": "\u063a\u064a\u0646\u064a\u0627-\u0628\u064a\u0633\u0627\u0648",
+        "name_en": "Guinea-Bissau",
+        "alpha_3": "GNB",
+        "phone_code": "245",
+        "alpha_2": "GW"
+    },
+    "592": {
+        "name_ar": "\u063a\u064a\u0627\u0646\u0627",
+        "name_en": "Guyana",
+        "alpha_3": "GUY",
+        "phone_code": "592",
+        "alpha_2": "GY"
+    },
+    "509": {
+        "name_ar": "\u0647\u0627\u064a\u062a\u064a",
+        "name_en": "Haiti",
+        "alpha_3": "HTI",
+        "phone_code": "509",
+        "alpha_2": "HT"
+    },
+    "504": {
+        "name_ar": "\u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+        "name_en": "Honduras",
+        "alpha_3": "HND",
+        "phone_code": "504",
+        "alpha_2": "HN"
+    },
+    "852": {
+        "name_ar": "\u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a",
+        "name_en": "Hong Kong",
+        "alpha_3": "HKG",
+        "phone_code": "852",
+        "alpha_2": "HK"
+    },
+    "36": {
+        "name_ar": "\u0647\u0646\u063a\u0627\u0631\u064a\u0627",
+        "name_en": "Hungary",
+        "alpha_3": "HUN",
+        "phone_code": "36",
+        "alpha_2": "HU"
+    },
+    "354": {
+        "name_ar": "\u0623\u064a\u0633\u0644\u0646\u062f\u0627",
+        "name_en": "Iceland",
+        "alpha_3": "ISL",
+        "phone_code": "354",
+        "alpha_2": "IS"
+    },
+    "91": {
+        "name_ar": "\u0627\u0644\u0647\u0646\u062f",
+        "name_en": "India",
+        "alpha_3": "IND",
+        "phone_code": "91",
+        "alpha_2": "IN"
+    },
+    "62": {
+        "name_ar": "\u0625\u0646\u062f\u0648\u0646\u064a\u0633\u064a\u0627",
+        "name_en": "Indonesia",
+        "alpha_3": "IDN",
+        "phone_code": "62",
+        "alpha_2": "ID"
+    },
+    "225": {
+        "name_ar": "\u0633\u0627\u062d\u0644 \u0627\u0644\u0639\u0627\u062c",
+        "name_en": "Ivory Coast",
+        "alpha_3": "CIV",
+        "phone_code": "225",
+        "alpha_2": "CI"
+    },
+    "98": {
+        "name_ar": "\u0625\u064a\u0631\u0627\u0646",
+        "name_en": "Iran",
+        "alpha_3": "IRN",
+        "phone_code": "98",
+        "alpha_2": "IR"
+    },
+    "964": {
+        "name_ar": "\u0627\u0644\u0639\u0631\u0627\u0642",
+        "name_en": "Iraq",
+        "alpha_3": "IRQ",
+        "phone_code": "964",
+        "alpha_2": "IQ"
+    },
+    "353": {
+        "name_ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627",
+        "name_en": "Republic of Ireland",
+        "alpha_3": "IRL",
+        "phone_code": "353",
+        "alpha_2": "IE"
+    },
+    "972": {
+        "name_ar": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+        "name_en": "Israel",
+        "alpha_3": "ISR",
+        "phone_code": "972",
+        "alpha_2": "IL"
+    },
+    "39": {
+        "name_ar": "\u0625\u064a\u0637\u0627\u0644\u064a\u0627",
+        "name_en": "Italy",
+        "alpha_3": "ITA",
+        "phone_code": "39",
+        "alpha_2": "IT"
+    },
+    "1876": {
+        "name_ar": "\u062c\u0627\u0645\u0627\u064a\u0643\u0627",
+        "name_en": "Jamaica",
+        "alpha_3": "JAM",
+        "phone_code": "1876",
+        "alpha_2": "JM"
+    },
+    "81": {
+        "name_ar": "\u0627\u0644\u064a\u0627\u0628\u0627\u0646",
+        "name_en": "Japan",
+        "alpha_3": "JPN",
+        "phone_code": "81",
+        "alpha_2": "JP"
+    },
+    "962": {
+        "name_ar": "\u0627\u0644\u0623\u0631\u062f\u0646",
+        "name_en": "Jordan",
+        "alpha_3": "JOR",
+        "phone_code": "962",
+        "alpha_2": "JO"
+    },
+    "76": {
+        "name_ar": "\u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646",
+        "name_en": "Kazakhstan",
+        "alpha_3": "KAZ",
+        "phone_code": "76",
+        "alpha_2": "KZ"
+    },
+    "254": {
+        "name_ar": "\u0643\u064a\u0646\u064a\u0627",
+        "name_en": "Kenya",
+        "alpha_3": "KEN",
+        "phone_code": "254",
+        "alpha_2": "KE"
+    },
+    "686": {
+        "name_ar": "\u0643\u064a\u0631\u064a\u0628\u0627\u0633",
+        "name_en": "Kiribati",
+        "alpha_3": "KIR",
+        "phone_code": "686",
+        "alpha_2": "KI"
+    },
+    "965": {
+        "name_ar": "\u0627\u0644\u0643\u0648\u064a\u062a",
+        "name_en": "Kuwait",
+        "alpha_3": "KWT",
+        "phone_code": "965",
+        "alpha_2": "KW"
+    },
+    "996": {
+        "name_ar": "\u0642\u064a\u0631\u063a\u064a\u0632\u0633\u062a\u0627\u0646",
+        "name_en": "Kyrgyzstan",
+        "alpha_3": "KGZ",
+        "phone_code": "996",
+        "alpha_2": "KG"
+    },
+    "856": {
+        "name_ar": "\u0644\u0627\u0648\u0633",
+        "name_en": "Laos",
+        "alpha_3": "LAO",
+        "phone_code": "856",
+        "alpha_2": "LA"
+    },
+    "371": {
+        "name_ar": "\u0644\u0627\u062a\u0641\u064a\u0627",
+        "name_en": "Latvia",
+        "alpha_3": "LVA",
+        "phone_code": "371",
+        "alpha_2": "LV"
+    },
+    "961": {
+        "name_ar": "\u0644\u0628\u0646\u0627\u0646",
+        "name_en": "Lebanon",
+        "alpha_3": "LBN",
+        "phone_code": "961",
+        "alpha_2": "LB"
+    },
+    "266": {
+        "name_ar": "\u0644\u064a\u0633\u0648\u062a\u0648",
+        "name_en": "Lesotho",
+        "alpha_3": "LSO",
+        "phone_code": "266",
+        "alpha_2": "LS"
+    },
+    "231": {
+        "name_ar": "\u0644\u064a\u0628\u0631\u064a\u0627",
+        "name_en": "Liberia",
+        "alpha_3": "LBR",
+        "phone_code": "231",
+        "alpha_2": "LR"
+    },
+    "218": {
+        "name_ar": "\u0644\u064a\u0628\u064a\u0627",
+        "name_en": "Libya",
+        "alpha_3": "LBY",
+        "phone_code": "218",
+        "alpha_2": "LY"
+    },
+    "423": {
+        "name_ar": "\u0644\u064a\u062e\u062a\u0646\u0634\u062a\u0627\u064a\u0646",
+        "name_en": "Liechtenstein",
+        "alpha_3": "LIE",
+        "phone_code": "423",
+        "alpha_2": "LI"
+    },
+    "370": {
+        "name_ar": "\u0644\u064a\u062a\u0648\u0627\u0646\u064a\u0627",
+        "name_en": "Lithuania",
+        "alpha_3": "LTU",
+        "phone_code": "370",
+        "alpha_2": "LT"
+    },
+    "352": {
+        "name_ar": "\u0644\u0643\u0633\u0645\u0628\u0631\u063a",
+        "name_en": "Luxembourg",
+        "alpha_3": "LUX",
+        "phone_code": "352",
+        "alpha_2": "LU"
+    },
+    "389": {
+        "name_ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0642\u062f\u0648\u0646\u064a\u0627",
+        "name_en": "Republic of Macedonia",
+        "alpha_3": "MKD",
+        "phone_code": "389",
+        "alpha_2": "MK"
+    },
+    "261": {
+        "name_ar": "\u0645\u062f\u063a\u0634\u0642\u0631",
+        "name_en": "Madagascar",
+        "alpha_3": "MDG",
+        "phone_code": "261",
+        "alpha_2": "MG"
+    },
+    "265": {
+        "name_ar": "\u0645\u0644\u0627\u0648\u064a",
+        "name_en": "Malawi",
+        "alpha_3": "MWI",
+        "phone_code": "265",
+        "alpha_2": "MW"
+    },
+    "60": {
+        "name_ar": "\u0645\u0627\u0644\u064a\u0632\u064a\u0627",
+        "name_en": "Malaysia",
+        "alpha_3": "MYS",
+        "phone_code": "60",
+        "alpha_2": "MY"
+    },
+    "960": {
+        "name_ar": "\u062c\u0632\u0631 \u0627\u0644\u0645\u0627\u0644\u062f\u064a\u0641",
+        "name_en": "Maldives",
+        "alpha_3": "MDV",
+        "phone_code": "960",
+        "alpha_2": "MV"
+    },
+    "223": {
+        "name_ar": "\u0645\u0627\u0644\u064a",
+        "name_en": "Mali",
+        "alpha_3": "MLI",
+        "phone_code": "223",
+        "alpha_2": "ML"
+    },
+    "356": {
+        "name_ar": "\u0645\u0627\u0644\u0637\u0629",
+        "name_en": "Malta",
+        "alpha_3": "MLT",
+        "phone_code": "356",
+        "alpha_2": "MT"
+    },
+    "692": {
+        "name_ar": "\u062c\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+        "name_en": "Marshall Islands",
+        "alpha_3": "MHL",
+        "phone_code": "692",
+        "alpha_2": "MH"
+    },
+    "596": {
+        "name_ar": "\u0645\u0627\u0631\u062a\u064a\u0646\u064a\u0643",
+        "name_en": "Martinique",
+        "alpha_3": "MTQ",
+        "phone_code": "596",
+        "alpha_2": "MQ"
+    },
+    "222": {
+        "name_ar": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
+        "name_en": "Mauritania",
+        "alpha_3": "MRT",
+        "phone_code": "222",
+        "alpha_2": "MR"
+    },
+    "230": {
+        "name_ar": "\u0645\u0648\u0631\u064a\u0634\u064a\u0648\u0633",
+        "name_en": "Mauritius",
+        "alpha_3": "MUS",
+        "phone_code": "230",
+        "alpha_2": "MU"
+    },
+    "52": {
+        "name_ar": "\u0627\u0644\u0645\u0643\u0633\u064a\u0643",
+        "name_en": "Mexico",
+        "alpha_3": "MEX",
+        "phone_code": "52",
+        "alpha_2": "MX"
+    },
+    "691": {
+        "name_ar": "\u0645\u064a\u0643\u0631\u0648\u0646\u064a\u0632\u064a\u0627 (\u0648\u0644\u0627\u064a\u0627\u062a-\u0627\u0644\u0645\u0648\u062d\u062f\u0629",
+        "name_en": "Federated States of Micronesia",
+        "alpha_3": "FSM",
+        "phone_code": "691",
+        "alpha_2": "FM"
+    },
+    "373": {
+        "name_ar": "\u0645\u0648\u0644\u062f\u0648\u0641\u0627",
+        "name_en": "Moldova",
+        "alpha_3": "MDA",
+        "phone_code": "373",
+        "alpha_2": "MD"
+    },
+    "377": {
+        "name_ar": "\u0645\u0648\u0646\u0627\u0643\u0648",
+        "name_en": "Monaco",
+        "alpha_3": "MCO",
+        "phone_code": "377",
+        "alpha_2": "MC"
+    },
+    "976": {
+        "name_ar": "\u0645\u0646\u063a\u0648\u0644\u064a\u0627",
+        "name_en": "Mongolia",
+        "alpha_3": "MNG",
+        "phone_code": "976",
+        "alpha_2": "MN"
+    },
+    "382": {
+        "name_ar": "\u0627\u0644\u0623\u0633\u0648\u062f",
+        "name_en": "Montenegro",
+        "alpha_3": "MNE",
+        "phone_code": "382",
+        "alpha_2": "ME"
+    },
+    "1664": {
+        "name_ar": "\u0645\u0648\u0646\u062a\u0633\u064a\u0631\u0627\u062a",
+        "name_en": "Montserrat",
+        "alpha_3": "MSR",
+        "phone_code": "1664",
+        "alpha_2": "MS"
+    },
+    "212": {
+        "name_ar": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+        "name_en": "Western Sahara",
+        "alpha_3": "ESH",
+        "phone_code": "212",
+        "alpha_2": "EH"
+    },
+    "258": {
+        "name_ar": "\u0645\u0648\u0632\u0627\u0645\u0628\u064a\u0642",
+        "name_en": "Mozambique",
+        "alpha_3": "MOZ",
+        "phone_code": "258",
+        "alpha_2": "MZ"
+    },
+    "95": {
+        "name_ar": "\u0645\u064a\u0627\u0646\u0645\u0627\u0631",
+        "name_en": "Myanmar",
+        "alpha_3": "MMR",
+        "phone_code": "95",
+        "alpha_2": "MM"
+    },
+    "264": {
+        "name_ar": "\u0646\u0627\u0645\u064a\u0628\u064a\u0627",
+        "name_en": "Namibia",
+        "alpha_3": "NAM",
+        "phone_code": "264",
+        "alpha_2": "NA"
+    },
+    "674": {
+        "name_ar": "\u0646\u0627\u0648\u0631\u0648",
+        "name_en": "Nauru",
+        "alpha_3": "NRU",
+        "phone_code": "674",
+        "alpha_2": "NR"
+    },
+    "977": {
+        "name_ar": "\u0646\u064a\u0628\u0627\u0644",
+        "name_en": "Nepal",
+        "alpha_3": "NPL",
+        "phone_code": "977",
+        "alpha_2": "NP"
+    },
+    "31": {
+        "name_ar": "\u0647\u0648\u0644\u0646\u062f\u0627",
+        "name_en": "Netherlands",
+        "alpha_3": "NLD",
+        "phone_code": "31",
+        "alpha_2": "NL"
+    },
+    "687": {
+        "name_ar": "\u0643\u0627\u0644\u064a\u062f\u0648\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+        "name_en": "New Caledonia",
+        "alpha_3": "NCL",
+        "phone_code": "687",
+        "alpha_2": "NC"
+    },
+    "64": {
+        "name_ar": "\u062c\u0632\u0631 \u0628\u064a\u062a\u0643\u064a\u0631\u0646",
+        "name_en": "Pitcairn Islands",
+        "alpha_3": "PCN",
+        "phone_code": "64",
+        "alpha_2": "PN"
+    },
+    "505": {
+        "name_ar": "\u0646\u064a\u0643\u0627\u0631\u0627\u063a\u0648\u0627",
+        "name_en": "Nicaragua",
+        "alpha_3": "NIC",
+        "phone_code": "505",
+        "alpha_2": "NI"
+    },
+    "227": {
+        "name_ar": "\u0627\u0644\u0646\u064a\u062c\u0631",
+        "name_en": "Niger",
+        "alpha_3": "NER",
+        "phone_code": "227",
+        "alpha_2": "NE"
+    },
+    "234": {
+        "name_ar": "\u0646\u064a\u062c\u064a\u0631\u064a\u0627",
+        "name_en": "Nigeria",
+        "alpha_3": "NGA",
+        "phone_code": "234",
+        "alpha_2": "NG"
+    },
+    "683": {
+        "name_ar": "\u0646\u064a\u0648\u064a",
+        "name_en": "Niue",
+        "alpha_3": "NIU",
+        "phone_code": "683",
+        "alpha_2": "NU"
+    },
+    "672": {
+        "name_ar": "\u062c\u0632\u064a\u0631\u0629 \u0646\u0648\u0631\u0641\u0648\u0644\u0643",
+        "name_en": "Norfolk Island",
+        "alpha_3": "NFK",
+        "phone_code": "672",
+        "alpha_2": "NF"
+    },
+    "850": {
+        "name_ar": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+        "name_en": "North Korea",
+        "alpha_3": "PRK",
+        "phone_code": "850",
+        "alpha_2": "KP"
+    },
+    "1670": {
+        "name_ar": "\u062c\u0632\u0631 \u0645\u0627\u0631\u064a\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+        "name_en": "Northern Mariana Islands",
+        "alpha_3": "MNP",
+        "phone_code": "1670",
+        "alpha_2": "MP"
+    },
+    "47": {
+        "name_ar": "\u0627\u0644\u0646\u0631\u0648\u064a\u062c",
+        "name_en": "Norway",
+        "alpha_3": "NOR",
+        "phone_code": "47",
+        "alpha_2": "NO"
+    },
+    "968": {
+        "name_ar": "\u0639\u0645\u0627\u0646",
+        "name_en": "Oman",
+        "alpha_3": "OMN",
+        "phone_code": "968",
+        "alpha_2": "OM"
+    },
+    "92": {
+        "name_ar": "\u0628\u0627\u0643\u0633\u062a\u0627\u0646",
+        "name_en": "Pakistan",
+        "alpha_3": "PAK",
+        "phone_code": "92",
+        "alpha_2": "PK"
+    },
+    "680": {
+        "name_ar": "\u0628\u0627\u0644\u0627\u0648",
+        "name_en": "Palau",
+        "alpha_3": "PLW",
+        "phone_code": "680",
+        "alpha_2": "PW"
+    },
+    "970": {
+        "name_ar": "\u0641\u0644\u0633\u0637\u064a\u0646",
+        "name_en": "Palestine",
+        "alpha_3": "PSE",
+        "phone_code": "970",
+        "alpha_2": "PS"
+    },
+    "507": {
+        "name_ar": "\u0628\u0646\u0645\u0627",
+        "name_en": "Panama",
+        "alpha_3": "PAN",
+        "phone_code": "507",
+        "alpha_2": "PA"
+    },
+    "675": {
+        "name_ar": "\u0628\u0627\u0628\u0648\u0627 \u063a\u064a\u0646\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629",
+        "name_en": "Papua New Guinea",
+        "alpha_3": "PNG",
+        "phone_code": "675",
+        "alpha_2": "PG"
+    },
+    "595": {
+        "name_ar": "\u0628\u0627\u0631\u0627\u063a\u0648\u0627\u064a",
+        "name_en": "Paraguay",
+        "alpha_3": "PRY",
+        "phone_code": "595",
+        "alpha_2": "PY"
+    },
+    "51": {
+        "name_ar": "\u0628\u064a\u0631\u0648",
+        "name_en": "Peru",
+        "alpha_3": "PER",
+        "phone_code": "51",
+        "alpha_2": "PE"
+    },
+    "63": {
+        "name_ar": "\u0627\u0644\u0641\u0644\u0628\u064a\u0646",
+        "name_en": "Philippines",
+        "alpha_3": "PHL",
+        "phone_code": "63",
+        "alpha_2": "PH"
+    },
+    "48": {
+        "name_ar": "\u0628\u0648\u0644\u0646\u062f\u0627",
+        "name_en": "Poland",
+        "alpha_3": "POL",
+        "phone_code": "48",
+        "alpha_2": "PL"
+    },
+    "351": {
+        "name_ar": "\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644",
+        "name_en": "Portugal",
+        "alpha_3": "PRT",
+        "phone_code": "351",
+        "alpha_2": "PT"
+    },
+    "1787": {
+        "name_ar": "\u0628\u0648\u0631\u062a\u0648\u0631\u064a\u0643\u0648",
+        "name_en": "Puerto Rico",
+        "alpha_3": "PRI",
+        "phone_code": "1787",
+        "alpha_2": "PR"
+    },
+    "974": {
+        "name_ar": "\u0642\u0637\u0631",
+        "name_en": "Qatar",
+        "alpha_3": "QAT",
+        "phone_code": "974",
+        "alpha_2": "QA"
+    },
+    "383": {
+        "name_ar": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0643\u0648\u0633\u0648\u0641\u0648",
+        "name_en": "Republic of Kosovo",
+        "alpha_3": "KOS",
+        "phone_code": "383",
+        "alpha_2": "XK"
+    },
+    "40": {
+        "name_ar": "\u0631\u0648\u0645\u0627\u0646\u064a\u0627",
+        "name_en": "Romania",
+        "alpha_3": "ROU",
+        "phone_code": "40",
+        "alpha_2": "RO"
+    },
+    "7": {
+        "name_ar": "\u0631\u0648\u0633\u064a\u0627",
+        "name_en": "Russia",
+        "alpha_3": "RUS",
+        "phone_code": "7",
+        "alpha_2": "RU"
+    },
+    "250": {
+        "name_ar": "\u0631\u0648\u0627\u0646\u062f\u0627",
+        "name_en": "Rwanda",
+        "alpha_3": "RWA",
+        "phone_code": "250",
+        "alpha_2": "RW"
+    },
+    "1869": {
+        "name_ar": "\u0633\u0627\u0646\u062a \u0643\u064a\u062a\u0633 \u0648\u0646\u064a\u0641\u064a\u0633",
+        "name_en": "Saint Kitts and Nevis",
+        "alpha_3": "KNA",
+        "phone_code": "1869",
+        "alpha_2": "KN"
+    },
+    "1758": {
+        "name_ar": "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a\u0627",
+        "name_en": "Saint Lucia",
+        "alpha_3": "LCA",
+        "phone_code": "1758",
+        "alpha_2": "LC"
+    },
+    "508": {
+        "name_ar": "\u0633\u0627\u0646\u062a \u0628\u064a\u064a\u0631 \u0648\u0645\u064a\u0643\u0644\u0648\u0646",
+        "name_en": "Saint Pierre and Miquelon",
+        "alpha_3": "SPM",
+        "phone_code": "508",
+        "alpha_2": "PM"
+    },
+    "1784": {
+        "name_ar": "\u0633\u0627\u0646\u062a \u0641\u0646\u0633\u0646\u062a \u0648\u062c\u0632\u0631 \u063a\u0631\u064a\u0646\u0627\u062f\u064a\u0646",
+        "name_en": "Saint Vincent and the Grenadines",
+        "alpha_3": "VCT",
+        "phone_code": "1784",
+        "alpha_2": "VC"
+    },
+    "685": {
+        "name_ar": "\u0633\u0627\u0645\u0648\u0627",
+        "name_en": "Samoa",
+        "alpha_3": "WSM",
+        "phone_code": "685",
+        "alpha_2": "WS"
+    },
+    "378": {
+        "name_ar": "\u0633\u0627\u0646 \u0645\u0627\u0631\u064a\u0646\u0648",
+        "name_en": "San Marino",
+        "alpha_3": "SMR",
+        "phone_code": "378",
+        "alpha_2": "SM"
+    },
+    "239": {
+        "name_ar": "\u0633\u0627\u0648 \u062a\u0648\u0645\u064a \u0648\u0628\u0631\u064a\u0646\u0633\u064a\u0628\u064a",
+        "name_en": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "alpha_3": "STP",
+        "phone_code": "239",
+        "alpha_2": "ST"
+    },
+    "966": {
+        "name_ar": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "name_en": "Saudi Arabia",
+        "alpha_3": "SAU",
+        "phone_code": "966",
+        "alpha_2": "SA"
+    },
+    "221": {
+        "name_ar": "\u0627\u0644\u0633\u0646\u063a\u0627\u0644",
+        "name_en": "Senegal",
+        "alpha_3": "SEN",
+        "phone_code": "221",
+        "alpha_2": "SN"
+    },
+    "381": {
+        "name_ar": "\u0635\u0631\u0628\u064a\u0627",
+        "name_en": "Serbia",
+        "alpha_3": "SRB",
+        "phone_code": "381",
+        "alpha_2": "RS"
+    },
+    "248": {
+        "name_ar": "\u0633\u064a\u0634\u064a\u0644",
+        "name_en": "Seychelles",
+        "alpha_3": "SYC",
+        "phone_code": "248",
+        "alpha_2": "SC"
+    },
+    "232": {
+        "name_ar": "\u0633\u064a\u0631\u0627\u0644\u064a\u0648\u0646",
+        "name_en": "Sierra Leone",
+        "alpha_3": "SLE",
+        "phone_code": "232",
+        "alpha_2": "SL"
+    },
+    "65": {
+        "name_ar": "\u0633\u0646\u063a\u0627\u0641\u0648\u0631\u0629",
+        "name_en": "Singapore",
+        "alpha_3": "SGP",
+        "phone_code": "65",
+        "alpha_2": "SG"
+    },
+    "1721": {
+        "name_ar": "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u0646",
+        "name_en": "Sint Maarten",
+        "alpha_3": "SXM",
+        "phone_code": "1721",
+        "alpha_2": "SX"
+    },
+    "421": {
+        "name_ar": "\u0633\u0644\u0648\u0641\u0627\u0643\u064a\u0627",
+        "name_en": "Slovakia",
+        "alpha_3": "SVK",
+        "phone_code": "421",
+        "alpha_2": "SK"
+    },
+    "386": {
+        "name_ar": "\u0633\u0644\u0648\u0641\u064a\u0646\u064a\u0627",
+        "name_en": "Slovenia",
+        "alpha_3": "SVN",
+        "phone_code": "386",
+        "alpha_2": "SI"
+    },
+    "677": {
+        "name_ar": "\u062c\u0632\u0631 \u0633\u0644\u064a\u0645\u0627\u0646",
+        "name_en": "Solomon Islands",
+        "alpha_3": "SLB",
+        "phone_code": "677",
+        "alpha_2": "SB"
+    },
+    "252": {
+        "name_ar": "\u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+        "name_en": "Somalia",
+        "alpha_3": "SOM",
+        "phone_code": "252",
+        "alpha_2": "SO"
+    },
+    "27": {
+        "name_ar": "\u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627",
+        "name_en": "South Africa",
+        "alpha_3": "ZAF",
+        "phone_code": "27",
+        "alpha_2": "ZA"
+    },
+    "82": {
+        "name_ar": "\u0643\u0648\u0631\u064a\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629",
+        "name_en": "South Korea",
+        "alpha_3": "KOR",
+        "phone_code": "82",
+        "alpha_2": "KR"
+    },
+    "211": {
+        "name_ar": "\u062c\u0646\u0648\u0628 \u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+        "name_en": "South Sudan",
+        "alpha_3": "SSD",
+        "phone_code": "211",
+        "alpha_2": "SS"
+    },
+    "34": {
+        "name_ar": "\u0625\u0633\u0628\u0627\u0646\u064a\u0627",
+        "name_en": "Spain",
+        "alpha_3": "ESP",
+        "phone_code": "34",
+        "alpha_2": "ES"
+    },
+    "94": {
+        "name_ar": "\u0633\u0631\u064a \u0644\u0627\u0646\u0643\u0627",
+        "name_en": "Sri Lanka",
+        "alpha_3": "LKA",
+        "phone_code": "94",
+        "alpha_2": "LK"
+    },
+    "249": {
+        "name_ar": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+        "name_en": "Sudan",
+        "alpha_3": "SDN",
+        "phone_code": "249",
+        "alpha_2": "SD"
+    },
+    "597": {
+        "name_ar": "\u0633\u0648\u0631\u064a\u0646\u0627\u0645",
+        "name_en": "Suriname",
+        "alpha_3": "SUR",
+        "phone_code": "597",
+        "alpha_2": "SR"
+    },
+    "4779": {
+        "name_ar": "\u0633\u0641\u0627\u0644\u0628\u0627\u0631\u062f \u0648\u062c\u0627\u0646 \u0645\u0627\u064a\u0627\u0646",
+        "name_en": "Svalbard and Jan Mayen",
+        "alpha_3": "SJM",
+        "phone_code": "4779",
+        "alpha_2": "SJ"
+    },
+    "268": {
+        "name_ar": "\u0633\u0648\u0627\u0632\u064a\u0644\u0646\u062f",
+        "name_en": "Swaziland",
+        "alpha_3": "SWZ",
+        "phone_code": "268",
+        "alpha_2": "SZ"
+    },
+    "46": {
+        "name_ar": "\u0627\u0644\u0633\u0648\u064a\u062f",
+        "name_en": "Sweden",
+        "alpha_3": "SWE",
+        "phone_code": "46",
+        "alpha_2": "SE"
+    },
+    "41": {
+        "name_ar": "\u0633\u0648\u064a\u0633\u0631\u0627",
+        "name_en": "Switzerland",
+        "alpha_3": "CHE",
+        "phone_code": "41",
+        "alpha_2": "CH"
+    },
+    "963": {
+        "name_ar": "\u0633\u0648\u0631\u064a\u0627",
+        "name_en": "Syria",
+        "alpha_3": "SYR",
+        "phone_code": "963",
+        "alpha_2": "SY"
+    },
+    "886": {
+        "name_ar": "\u062a\u0627\u064a\u0648\u0627\u0646",
+        "name_en": "Taiwan",
+        "alpha_3": "TWN",
+        "phone_code": "886",
+        "alpha_2": "TW"
+    },
+    "992": {
+        "name_ar": "\u0637\u0627\u062c\u064a\u0643\u0633\u062a\u0627\u0646",
+        "name_en": "Tajikistan",
+        "alpha_3": "TJK",
+        "phone_code": "992",
+        "alpha_2": "TJ"
+    },
+    "255": {
+        "name_ar": "\u062a\u0646\u0632\u0627\u0646\u064a\u0627",
+        "name_en": "Tanzania",
+        "alpha_3": "TZA",
+        "phone_code": "255",
+        "alpha_2": "TZ"
+    },
+    "66": {
+        "name_ar": "\u062a\u0627\u064a\u0644\u0646\u062f",
+        "name_en": "Thailand",
+        "alpha_3": "THA",
+        "phone_code": "66",
+        "alpha_2": "TH"
+    },
+    "670": {
+        "name_ar": "\u062a\u064a\u0645\u0648\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+        "name_en": "East Timor",
+        "alpha_3": "TLS",
+        "phone_code": "670",
+        "alpha_2": "TL"
+    },
+    "228": {
+        "name_ar": "\u062a\u0648\u063a\u0648",
+        "name_en": "Togo",
+        "alpha_3": "TGO",
+        "phone_code": "228",
+        "alpha_2": "TG"
+    },
+    "690": {
+        "name_ar": "\u062a\u0648\u0643\u064a\u0644\u0627\u0648",
+        "name_en": "Tokelau",
+        "alpha_3": "TKL",
+        "phone_code": "690",
+        "alpha_2": "TK"
+    },
+    "676": {
+        "name_ar": "\u062a\u0648\u0646\u063a\u0627",
+        "name_en": "Tonga",
+        "alpha_3": "TON",
+        "phone_code": "676",
+        "alpha_2": "TO"
+    },
+    "1868": {
+        "name_ar": "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f \u0648\u062a\u0648\u0628\u0627\u063a\u0648",
+        "name_en": "Trinidad and Tobago",
+        "alpha_3": "TTO",
+        "phone_code": "1868",
+        "alpha_2": "TT"
+    },
+    "216": {
+        "name_ar": "\u062a\u0648\u0646\u0633",
+        "name_en": "Tunisia",
+        "alpha_3": "TUN",
+        "phone_code": "216",
+        "alpha_2": "TN"
+    },
+    "90": {
+        "name_ar": "\u062a\u0631\u0643\u064a\u0627",
+        "name_en": "Turkey",
+        "alpha_3": "TUR",
+        "phone_code": "90",
+        "alpha_2": "TR"
+    },
+    "993": {
+        "name_ar": "\u062a\u0631\u0643\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
+        "name_en": "Turkmenistan",
+        "alpha_3": "TKM",
+        "phone_code": "993",
+        "alpha_2": "TM"
+    },
+    "1649": {
+        "name_ar": "\u062c\u0632\u0631 \u062a\u0631\u0643\u0633 \u0648\u0643\u0627\u064a\u0643\u0648\u0633",
+        "name_en": "Turks and Caicos Islands",
+        "alpha_3": "TCA",
+        "phone_code": "1649",
+        "alpha_2": "TC"
+    },
+    "688": {
+        "name_ar": "\u062a\u0648\u0641\u0627\u0644\u0648",
+        "name_en": "Tuvalu",
+        "alpha_3": "TUV",
+        "phone_code": "688",
+        "alpha_2": "TV"
+    },
+    "256": {
+        "name_ar": "\u0623\u0648\u063a\u0646\u062f\u0627",
+        "name_en": "Uganda",
+        "alpha_3": "UGA",
+        "phone_code": "256",
+        "alpha_2": "UG"
+    },
+    "380": {
+        "name_ar": "\u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627",
+        "name_en": "Ukraine",
+        "alpha_3": "UKR",
+        "phone_code": "380",
+        "alpha_2": "UA"
+    },
+    "971": {
+        "name_ar": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+        "name_en": "United Arab Emirates",
+        "alpha_3": "ARE",
+        "phone_code": "971",
+        "alpha_2": "AE"
+    },
+    "598": {
+        "name_ar": "\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a",
+        "name_en": "Uruguay",
+        "alpha_3": "URY",
+        "phone_code": "598",
+        "alpha_2": "UY"
+    },
+    "998": {
+        "name_ar": "\u0623\u0648\u0632\u0628\u0643\u0633\u062a\u0627\u0646",
+        "name_en": "Uzbekistan",
+        "alpha_3": "UZB",
+        "phone_code": "998",
+        "alpha_2": "UZ"
+    },
+    "678": {
+        "name_ar": "\u0641\u0627\u0646\u0648\u0627\u062a\u0648",
+        "name_en": "Vanuatu",
+        "alpha_3": "VUT",
+        "phone_code": "678",
+        "alpha_2": "VU"
+    },
+    "58": {
+        "name_ar": "\u0641\u0646\u0632\u0648\u064a\u0644\u0627",
+        "name_en": "Venezuela",
+        "alpha_3": "VEN",
+        "phone_code": "58",
+        "alpha_2": "VE"
+    },
+    "84": {
+        "name_ar": "\u0641\u064a\u062a\u0646\u0627\u0645",
+        "name_en": "Vietnam",
+        "alpha_3": "VNM",
+        "phone_code": "84",
+        "alpha_2": "VN"
+    },
+    "681": {
+        "name_ar": "\u0648\u0627\u0644\u064a\u0633 \u0648\u0641\u0648\u062a\u0648\u0646\u0627",
+        "name_en": "Wallis and Futuna",
+        "alpha_3": "WLF",
+        "phone_code": "681",
+        "alpha_2": "WF"
+    },
+    "967": {
+        "name_ar": "\u0627\u0644\u064a\u0645\u0646",
+        "name_en": "Yemen",
+        "alpha_3": "YEM",
+        "phone_code": "967",
+        "alpha_2": "YE"
+    },
+    "260": {
+        "name_ar": "\u0632\u0627\u0645\u0628\u064a\u0627",
+        "name_en": "Zambia",
+        "alpha_3": "ZMB",
+        "phone_code": "260",
+        "alpha_2": "ZM"
+    },
+    "263": {
+        "name_ar": "\u0632\u0645\u0628\u0627\u0628\u0648\u064a",
+        "name_en": "Zimbabwe",
+        "alpha_3": "ZWE",
+        "phone_code": "263",
+        "alpha_2": "ZW"
+    }
+}
