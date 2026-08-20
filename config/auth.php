@@ -114,4 +114,7 @@ return [
 
     'password_timeout' => env('AUTH_PASSWORD_TIMEOUT', 10800),
 
+
+    'login_via'=>env('AUTH_LOGIN_VIA','email'),
+
 ];

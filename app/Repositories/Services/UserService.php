@@ -2,9 +2,11 @@
 
 namespace App\Repositories\Services;
 
+use App\Enums\LoginByEnum;
 use App\Http\Services\PhoneNumberService;
 use App\Repositories\Contracts\UserRepositoryInterface;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Validation\ValidationException;
 
 class UserService
@@ -31,6 +33,7 @@ class UserService
     public function create(array $data)
     {
         $this->prepareMobileData($data);
+
         return $this->repository->create($data);
     }
 
@@ -80,5 +83,49 @@ class UserService
     public function delete($model): bool
     {
         return $this->repository->delete($model);
+    }
+
+    public function loginBySanctum(array $data)
+    {
+        $user = $this->findUserForLogin($data);
+
+        if (! $this->validatePassword($data['password'], $user)) {
+            return false;
+        }
+
+        return $this->createAuthToken($user);
+    }
+
+    private function findUserForLogin(array $data)
+    {
+        return match (config('auth.login_via', LoginByEnum::EMAIL->value)) {
+            LoginByEnum::EMAIL->value => $this->repository->findByCol('email', $data['email']),
+            LoginByEnum::MOBILE->value => $this->repository->findByMobileAndCountryCode($data['mobile_country_code'], $data['mobile']),
+            default => $this->findUserByEmailOrMobile($data),
+        };
+    }
+
+    private function findUserByEmailOrMobile(array $data)
+    {
+        if (! empty($data['email'])) {
+            return $this->repository->findByCol('email', $data['email']);
+        }
+
+        return $this->repository->findByMobileAndCountryCode($data['mobile_country_code'], $data['mobile']);
+    }
+
+    private function validatePassword(string $password, $user): bool
+    {
+        if (! $user) {
+            return false;
+        }
+
+        return Hash::check($password, $user->password);    }
+
+    private function createAuthToken($user)
+    {
+        $user->token = $user->createToken('auth_token')->plainTextToken;
+
+        return $user;
     }
 }
