@@ -32,7 +32,7 @@ class VerificationCodeService
     public function create(array $data)
     {
         $data = $this->prepareData($data);
-   
+
         $this->repository->create($data);
         $this->send($data);
     }
@@ -76,4 +76,17 @@ class VerificationCodeService
     {
         return $this->repository->delete($model);
     }
+
+    public function findByUserAndPurpose(int $userId, string $purpose)
+    {
+        return $this->repository->findByUserAndPurpose($userId, $purpose);
+    }
+
+    public function deleteByUserAndPurpose(int $userId, string $purpose)
+    {
+        return $this->repository->deleteByUserAndPurpose($userId, $purpose);
+    }
+
+
+    
 }

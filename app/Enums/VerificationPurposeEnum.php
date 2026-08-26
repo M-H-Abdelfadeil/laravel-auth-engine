@@ -8,6 +8,7 @@ enum VerificationPurposeEnum: string
 {
     use EnumHelpers;
     case VERIFY = 'verify';
+    case OTP_LOGIN = 'otp_login';
     case RESET_PASSWORD = 'reset_password';
     case CHANGE_EMAIL = 'change_email';
     case CONFIRM_CHANGE_EMAIL = 'confirm_change_email';

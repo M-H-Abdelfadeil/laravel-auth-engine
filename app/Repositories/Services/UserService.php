@@ -3,6 +3,7 @@
 namespace App\Repositories\Services;
 
 use App\Enums\LoginByEnum;
+use App\Enums\VerificationPurposeEnum;
 use App\Http\Services\PhoneNumberService;
 use App\Repositories\Contracts\UserRepositoryInterface;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
@@ -12,7 +13,8 @@ use Illuminate\Validation\ValidationException;
 class UserService
 {
     public function __construct(
-        private UserRepositoryInterface $repository
+        private UserRepositoryInterface $repository,
+        private VerificationCodeService $verificationCodeService,
     ) {}
 
     public function paginate(array $filters = [], int $perPage = 15): LengthAwarePaginator
@@ -92,11 +94,21 @@ class UserService
         if (! $this->validatePassword($data['password'], $user)) {
             return false;
         }
-
         return $this->createAuthToken($user);
     }
 
-    private function findUserForLogin(array $data)
+    public function loginByOtp(array $data)
+    {
+        $user = $this->findUserForLogin($data);
+        if (! $this->validateOtp($data['otp'], $user)) {
+            return false;
+        }
+
+        return $this->createAuthToken($user);
+
+    }
+
+    public function findUserForLogin(array $data)
     {
         return match (config('auth.login_via', LoginByEnum::EMAIL->value)) {
             LoginByEnum::EMAIL->value => $this->repository->findByCol('email', $data['email']),
@@ -120,12 +132,27 @@ class UserService
             return false;
         }
 
-        return Hash::check($password, $user->password);    }
+        return Hash::check($password, $user->password);
+    }
+
+    private function validateOtp(string $inputCode, $user): bool
+    {
+        if (! $user) {
+            return false;
+        }
+
+        $verifyCode = $this->verificationCodeService->findByUserAndPurpose($user->id, VerificationPurposeEnum::OTP_LOGIN->value);
+        if (! $verifyCode || $verifyCode->expires_at < now() || $verifyCode->code != $inputCode || $verifyCode->purpose != VerificationPurposeEnum::OTP_LOGIN) {
+            return false;
+        }
+        $verifyCode->delete();
+
+        return true;
+    }
 
     private function createAuthToken($user)
     {
         $user->token = $user->createToken('auth_token')->plainTextToken;
-
         return $user;
     }
 }
